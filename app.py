@@ -3,7 +3,7 @@ from PIL import Image
 from ultralytics import YOLO
 
 # Custom CSS for background image
-background_image_url = 'https://wallpaperboat.com/free-website-background'
+background_image_url = 'https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-15.jpg'
 page_bg_img = f"""
 <style>
 .stApp {{
