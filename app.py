@@ -3,7 +3,7 @@ from PIL import Image
 from ultralytics import YOLO
 
 # Custom CSS for background image
-background_image_url = 'https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MDQ3NjQ1/website-background-templates.png'
+background_image_url = 'https://www.wallpapertip.com/wmimgs/82-825008_high-resolution-background-image-for-website.jpg'
 page_bg_img = f"""
 <style>
 .stApp {{
